@@ -1,0 +1,27 @@
+body {
+    font-family:slad-serif;
+}
+header{
+    background-color: lightpink;
+}
+main{
+    background-color: rgb(246, 137, 173);
+}
+main a{
+    color:purple; 
+    font-size: 20px;
+}
+h1{
+    font-size: 100px;
+    color: pink;
+}
+ h2{
+color: purple;
+}
+p{
+    color: royalblue;
+    background-color: lavender;
+}
+footer{
+    background-color: purple;
+}
